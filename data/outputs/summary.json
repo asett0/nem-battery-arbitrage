@@ -1,0 +1,11 @@
+{
+  "hindsight": {
+    "total_aud": 1184270.58,
+    "per_mw_year_aud": 144184.94
+  },
+  "rolling": {
+    "total_aud": 337405.26,
+    "per_mw_year_aud": 41079.09
+  },
+  "rolling_to_hindsight_ratio": 0.2849
+}
